@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Zen-99
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML,CSS,JS,PHP
+
 ### Hi, I'm Roshan Senevirathne 👋
 
 [![Zen-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zen-99&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Zen-99)
